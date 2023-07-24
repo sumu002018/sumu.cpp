@@ -30,6 +30,8 @@ int main()
     for(int i=1; i<=n; i++) cout<<arr[i]<<" ";
     cout<<endl;
 
+
+    //Hi,this is Salman,who loves you madly
 }
 
 
